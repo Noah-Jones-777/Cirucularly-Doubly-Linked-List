@@ -12,7 +12,7 @@ public class Test {
 	public static void main(String[] args) {
 		NEXT();
 		testNode();
-		/*NEXT();
+		NEXT();
 		testAdd();
 		NEXT();
 		testAddAdd();
@@ -27,7 +27,7 @@ public class Test {
 		NEXT();
 		testRemoveFinal();
 		NEXT();
-		testCopy();*/
+		testCopy();
 	}
 	public static void HEADER(){
 		String str = "#";
